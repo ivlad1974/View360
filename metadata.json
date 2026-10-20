@@ -1,0 +1,8 @@
+{
+  "name": "View 360",
+  "description": "Automotive 360° Surround View Monitor (AVM), 4-Channel DVR Dashcam, 3D Vehicle Customizer, and Camera Calibration Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

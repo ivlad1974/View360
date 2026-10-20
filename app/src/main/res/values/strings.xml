@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">View 360</string>
+    <string name="title_avm">360° Surround View</string>
+    <string name="title_shop">Vehicle Model &amp; Style</string>
+    <string name="title_dvr">4-Channel DVR</string>
+    <string name="title_calibration">Camera Calibration</string>
+    <string name="title_settings">AVM Settings</string>
+</resources>
